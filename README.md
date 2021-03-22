@@ -1,9 +1,40 @@
-# ABOUT ME
-- 👋 Hi, I'm ryonsphereee. 
-- 💻 I'm a 13 year old who programs in Lua and CSS.
-- 🔭 My current project is [DiscordAddons](https://github.com/DiscordAddons)
-- ⚡ Facts about me: I like wasting my time programming stupid Discord snippets, watching TV, anime, or Youtube and doing other things.
-- 📫 Need to contact me? [@ryonsphereee](https://twitter.com/ryonsphereee) or ryons#3571
+# Hi! I'm Ryonfill.
+
+# Personal Links
+- Profile - [Ryonfill](https://github.com/Ryonfill)
+- Company - [DiscordAddons](https://github.com/DiscordAddons)
+- Twitter - [@ryonsphereee](https://twitter.com/ryonsphereee)
+- Discord - `Ryonfill#3571`
+
+# Interests
+- Anime
+- Programming
+- The 100 (television show)
+
+# Languages
+- Lua
+- CSS
+
+# Organizational Repos
+- [Wildberry - Codeblock Theme](https://github.com/DiscordAddons/Wildberry-Codeblock-Theme) - `Public`
+- [Frosted Glass - Codeblock Theme](https://github.com/DiscordAddons/Frosted-Glass-Codeblock-Theme) - `Private` [will be released later today]
+- [Chroma Syntax Highlighting](https://github.com/DiscordAddons/Chroma-Code-Syntax) - `Public`
+- [Light Codeblocks](https://github.com/DiscordAddons/Light-Codeblocks) - `Public`
+- [Blur Member List](https://github.com/DiscordAddons/BlurMemberList) - `Public`
+- [Chroma Folders](https://github.com/DiscordAddons/Chroma-Folders) - `Public`
+- [Dark Channels And Unread Bar](https://github.com/DiscordAddons/Dark-Channels-And-Unread-Bar) - `Public`
+- [Blur Folders](https://github.com/DiscordAddons/BlurFolders) - `Public`
+- [Info about DiscordAddons](https://github.com/DiscordAddons/info) - `Public`
+- [Chromacord](https://github.com/DiscordAddons/Chromacord) - `Public, archived and discontinued`
+- [ChromaSlate](https://github.com/DiscordAddons/ChromaSlate) - `Private and postponed`
+
+# Personal Repos
+- [iyplugins](https://github.com/Ryonss/iyplugins) -`Private and discontinued`
+- [LuaS (bad name, yes ik)](https://github.com/Ryonss/LuaS) - `Private and discontinued`
+- [BDSnips](https://github.com/Ryonss/BDSnips) - `Discontinued and archived`
+
+# Special Repos
+- [Ryonfill - About me](https://github.com/Ryonfill/Ryonfill) - `Public`
 <!--
 
 
