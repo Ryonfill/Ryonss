@@ -4,7 +4,7 @@
 + united states.
 - 13 years old.
 ! programmer and theme developer.
-%  css and lua lover.
+% css and lua lover.
 * and yes i did copy jew's README.md (go check it out though, https://github.com/jewdev/jewdev).
 ```
 
