@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=evadeRyon)
 
-# evadeRyon - Introduction
-
 **Who am I?**
 - *Hi 👋, I'm Ryon, a 13 year old programmer who programs in CSS and Lua, I'm not good at any of them but I still enjoy programming using those 2 languages.*
 
