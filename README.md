@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/556120718669119499)](https://discord.com/users/556120718669119499)
+
 <h1>☁ akatsuki</h1>
 <details><summary>socials. 🐦</summary>
   <li><a href="https://github.com/copymelee">organization.</a></li>
